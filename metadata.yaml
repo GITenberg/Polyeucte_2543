@@ -1,0 +1,42 @@
+_repo: Polyeucte_2543
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Constable, Thomas
+    alias: Constable, T. (Thomas)
+    birthdate: 1812
+    deathdate: 1881
+    gutenberg_agent_id: '961'
+    url: http://www.gutenberg.org/2009/agents/961
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+description: This seventeenth-century drama in five acts was inspired by the tale
+  of Saint Polyeuctus (rendered as 'Polyeucte' in French), a Roman convert to the
+  faith who was martyred in 259 A.D. However, although an imaginatively retold version
+  of the story of St. Polyeuctus comprises some of the plot of the play, Polyeucte
+  also relates metaphorically to the religious debates of the seventeenth century.
+  A must-read for fans of classic drama.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2006-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- Translations into English'
+- !lcsh 'Polyeuctus, Saint, -approximately 259 -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: Polyeucte
+url: http://www.gutenberg.org/ebooks/2543
